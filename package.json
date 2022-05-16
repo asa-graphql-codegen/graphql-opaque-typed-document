@@ -1,7 +1,8 @@
 {
   "name": "graphql-opaque-typed-document",
   "version": "0.1.0",
-  "repository": "git@github.com:asakusuma/graphql-opaque-typed-document.git",
+  "repository": "git@github.com:asa-graphql-codegen/graphql-opaque-typed-document.git",
+  "homepage": "https://github.com/asa-graphql-codegen/graphql-opaque-typed-document",
   "author": "Asa Kusuma",
   "license": "MIT",
   "sideEffects": false,
